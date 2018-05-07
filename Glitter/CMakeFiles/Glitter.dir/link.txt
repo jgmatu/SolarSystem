@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wextra -Wpedantic -std=c++11   CMakeFiles/Glitter.dir/Sources/ShaderProgram.cpp.o CMakeFiles/Glitter.dir/Sources/main.cpp.o CMakeFiles/Glitter.dir/Vendor/glad/src/glad.c.o  -o Glitter/Glitter -rdynamic Glitter/Vendor/glfw/src/libglfw3.a -ldl -lrt -lm -ldl -lX11 -lpthread 
